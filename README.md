@@ -79,8 +79,8 @@ li{
   <p>To secure a challenging position in a dynamic organization where i can utilize my technical skills,creativity,and ability to learn quickly,in order to contribute to the growth and success of the organization ,while enhancing my own professional growth and development.</p>
   <div class="section">
    <div class="section-title">Education</div>
-   <ul><
-   <li><<strong>Bachelor of Technology-Computer Science and Engineering</strong></li>
+   <ul>
+   <li><strong>Bachelor of Technology-Computer Science and Engineering</strong></li>
    <li>West Godavari Institute of Science and Engineering collage<br>
        2023-2027
        prakashraopalem,Nallajerlla,AndhraPradesh,534112
