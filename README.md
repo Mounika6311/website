@@ -125,7 +125,7 @@ li{
    </div>
   <div class="section">
    <div class="section-title">Contact</div>
-   <p>Email:<a href="Seelankimounika@gmail.com"class="link>Seelankimounika@gmail.com</a></p>
+      <p>Email:<a href="Seelankimounika@gmail.com"class="link">Seelankimounika@gmail.com</a></p>
       <p>Phone:+91 8019863769</p>
    </div>
    </div>
