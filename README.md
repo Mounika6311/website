@@ -90,11 +90,11 @@ li{
    <li>A.K.R.G Junior collage<br>2021-2023
        Nallajerla,AndhraPradesh,543112
        CGPA:9.35</li>
-    <li>strong>SSC></strong>,Vivekananda Vidya Mandir High School<br>
+    <li><strong>SSC</strong>,Vivekananda Vidya Mandir High School<br>
         2020-2021
         Hyderabad,Telangana,500055
         CGPA:10</li>
-   </ui>
+   </ul>
    </div>
    <div class="section">
     <div class="section-title">Skills</div>
@@ -116,8 +116,16 @@ li{
     </ul>
    </div>
    <div class="section">
+   <div class="section-title">Languages</div>
+     <ul>
+      <li>English
+      Telugu
+      Hindi</li>
+     </ul>
+   </div>
+  <div class="section">
    <div class="section-title">Contact</div>
-   <p>Email:<a herf="seelankimounika@gmail.com></p>
+   <p>Email:<a herf="seelankimounika@gmail.com"class="link>seelankimounika@gmail.com</a></p>
    <p>Phone:8019863769</p>
    </div>
    </div>
